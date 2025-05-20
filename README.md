@@ -15,7 +15,7 @@ The initial translations were done using a combination of a free API and Google 
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to open an issue or contact us directly or at (Discord](https://discord.gg/WYKkhw4Y).
+If you have any questions or need further assistance, feel free to open an issue or contact us directly or at [Discord](https://discord.gg/WYKkhw4Y).
 
 Happy translating!
 
