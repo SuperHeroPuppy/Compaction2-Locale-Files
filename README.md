@@ -1,5 +1,14 @@
 # Compaction2 Mod Locale Files
 
+> ## Important Notice
+>
+> This repository is **heavily outdated**.
+>
+> All current translations in this project are **not valid for recent or current releases** of the Compaction2 mod.
+>
+> Locale files may be incomplete, incorrect, or incompatible with newer versions of the mod.  
+> Contributions are still welcome, but expect that translations may require major updates to match the current state of the mod.
+
 Welcome to the GitHub repository for the locale files of the **Compaction2** mod! This repository is dedicated to improving and correcting the translations for the mod. The mod itself is created by my friend [SuperHeroPuppy](https://github.com/SuperHeroPuppy) and can be found on the [Factorio Mod Portal](https://mods.factorio.com/mod/Compaction2). If you find any errors in the translations, feel free to contribute by making a pull request.
 
 ## How to Contribute
